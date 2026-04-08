@@ -1,0 +1,163 @@
+Patterns :- Patterns uses Existing Data and apply on the current data
+    1. Machine Learning (ML)
+    2. Deep Learning (DL)
+    3. Natural Language Process (NLP)
+
+example : men : women :: king : ? --> queen
+
+How Patterns will Work : 
+
+Step1 : Take the past data
+Step2 : Understand the Patterns
+        1. ML
+        2. DL
+        3. NCP
+Step3 : when a question comes try to give the answer
+
+🧠 1. Patterns ante enti?
+
+👉 Definition (Simple):
+Past data lo unna relations ni gurthinchadam = Patterns
+
+📌 Example:
+men : women
+king : queen
+
+👉 Explanation:
+
+“men → women” (male → female relation)
+“king → queen” (same pattern apply)
+
+👉 Idi pattern matching
+
+⚙️ 2. How Pattern System Works
+Step 1: Past Data tiskuntundi
+huge data (text, images, numbers)
+Step 2: Patterns nerchukuntundi
+relations
+similarities
+differences
+Step 3: New Question vaste
+previous patterns base chesi answer istundi
+🔍 3. Main Concepts
+1️⃣ Machine Learning (ML)
+💡 Definition:
+
+Machine Learning ante
+👉 data nundi patterns nerchukuni decisions tiskovadam
+
+👉 Simple ga:
+ML = Experience tho nerchukune system
+
+🔥 Real-world Example:
+
+👉 Amazon:
+
+nuvvu mobile search chesthav
+next time suggestions:
+mobile case
+charger
+
+👉 Reason:
+users behavior ni observe chesi pattern nerchukundi
+
+🧠 ML ela work chesthundi?
+Data ivvandi
+System patterns nerchukuntundi
+Prediction istundi
+📌 Types of ML:
+Supervised Learning → labels untayi (teacher undi)
+Unsupervised Learning → patterns search chesthundi
+Reinforcement Learning → trial & error
+2️⃣ Deep Learning (DL)
+💡 Definition:
+
+Deep Learning ante
+👉 Machine Learning lo advanced version
+👉 human brain la neurons use chesthundi
+
+🧠 Simple ga:
+
+DL = ML + Artificial Brain
+
+🔥 Real-world Example:
+
+👉 Face Recognition (Phone Unlock):
+
+eyes detect chesthundi
+nose detect chesthundi
+face shape identify chesthundi
+⚙️ ML vs DL Difference:
+ML	DL
+small data saripothundi	huge data kavali
+simple patterns	complex patterns
+manual feature selection	automatic feature learning
+🔥 Easy Analogy:
+ML = student notes chusi nerchukuntadu
+DL = student deep ga subject ardham chesukuntadu
+3️⃣ NLP (Natural Language Processing)
+💡 Definition:
+
+NLP ante
+👉 human language ni AI ardham chesukovadam
+
+🧠 Simple ga:
+
+NLP = AI ki language nerpinchadam
+
+🔥 Real-world Examples:
+Chatbots (ChatGPT)
+Google Translate
+Voice Assistants
+📌 Example:
+
+👉 Input:
+“Naaku job kavali”
+
+👉 NLP Process:
+
+“job” keyword identify chesthundi
+user intent: employment
+🔗 4. Relationship Between Concepts
+AI
+ └── ML
+      └── DL
+           └── NLP (Use Case)
+🎯 5. Pattern Example Breakdown
+Question:
+
+men : women :: king : ?
+
+AI Thinking:
+ML → male → female pattern gurthinchindi
+DL → deeper relation (royalty context)
+NLP → words meaning ardham chesukundi
+
+👉 Final Answer: queen
+
+💡 6. Real-world Combined Example
+
+👉 YouTube Recommendations:
+
+ML:
+nuvvu chusina videos analyze chesthundi
+DL:
+thumbnails, voice, behavior analyze chesthundi
+NLP:
+titles, comments ardham chesukuntundi
+
+👉 Final Result:
+👉 personalized recommendations
+
+🚀 7. Quick Summary
+ML → patterns nerchukuntundi
+DL → deep patterns ardham chesukuntundi
+NLP → language ardham chesukuntundi
+📝 Final One-Line Understanding
+
+👉 “AI systems past data lo patterns nerchukuni, new data ki apply chesi answers generate chesthayi.”
+
+✔️ Note:
+
+“NCP” correct term → NLP
+ML, DL, NLP anni kalisi modern AI systems build chestayi

@@ -1,0 +1,165 @@
+
+Generative AI : It is a type of artificial intelligence that can create new content such as Text , Images , Audio , Video , 3D models.
+
+Traditional AI (Analytical): Looks at a photo and says "This is a cat."
+
+Generative AI (Creative): Looks at millions of photos of cats and then creates a brand new photo of a cat that has never existed before.
+
+Examples of Generative AI : ChatGPT (text), Midjourney/DALL-E (images), GitHub Copilot (code), Sora (video).
+
+
+🤖 1. Generative AI ante enti?
+
+Definition (Simple):
+Generative AI ante kotha content create cheyyagal AI
+(text, images, code, videos…)
+
+👉 Example:
+
+nuvvu: “Leave letter raay”
+AI: full letter generate chesthundi
+
+👉 Real life example:
+
+Photoshop lo image edit chesthav
+kani Generative AI image ni scratch nundi create chesthundi
+
+📌 Examples:
+
+ChatGPT → text generate
+DALL·E → images generate
+🧠 2. LLM (Large Language Model)
+
+Definition:
+LLM ante pedda text data meeda train ayina AI model
+idi manam matlaadite ardham chesukoni reply ivvagaladu
+
+👉 Simple ga:
+LLM = Brain of ChatGPT
+
+👉 Real-world example:
+
+Nuvvu friend tho chat chesthav
+friend answer istadu knowledge base meeda
+
+LLM kuda alane:
+👉 internet lo unna huge data ni nerchukuni reply istundi
+
+📌 Examples:
+
+GPT (ChatGPT)
+Gemini
+Claude
+📚 3. RAG (Retrieval-Augmented Generation)
+
+Definition:
+RAG ante:
+👉 AI answer ivvadam mundu
+👉 external data (files, DB, docs) nundi info teesukuni
+👉 accurate answer ivvadam
+
+👉 Simple ga:
+RAG = Google search + ChatGPT combo
+
+🔥 Real-world example:
+
+👉 Without RAG:
+
+Nuvvu: “maa company leave policy enti?”
+AI: guess chesthundi (wrong avvachu)
+
+👉 With RAG:
+
+AI → company document open chesthundi
+akkada nundi exact info teesukuni answer ivvadi
+
+👉 Use case:
+
+Company chatbot
+Customer support bot
+🤖 4. AI Agent
+
+Definition:
+AI Agent ante task ni complete cheyadaniki actions teesukune AI
+
+👉 Simple ga:
+Agent = AI + Thinking + Action
+
+🔥 Real-world example:
+
+👉 Nuvvu:
+“Book movie tickets for tonight”
+
+Agent:
+
+movie search chesthundi
+timings check chesthundi
+seats select chesthundi
+booking complete chesthundi
+
+👉 Idi just answer ivvadam kaadu
+👉 panulu kuda chesthundi
+
+⚡ 5. Agentic AI
+
+Definition:
+Agentic AI ante self-thinking + decision making AI system
+
+👉 Simple ga:
+👉 “emi cheyyalo AI ne decide chesukuntundi”
+
+🔥 Real-world example:
+
+👉 Goal: “Plan my trip to Goa”
+
+Agentic AI:
+
+flights search
+hotels compare
+itinerary create
+budget calculate
+
+👉 nuvvu step-by-step cheppalsina avasaram ledu
+
+🧩 6. AI Agents vs Agentic AI
+Concept	Meaning
+AI Agent	specific task complete chesthundi
+Agentic AI	multiple tasks plan chesi autonomously work chesthundi
+💡 Simple Analogy (Very Important 🔥)
+
+Think like this:
+
+👉 Generative AI = Writer
+👉 LLM = Brain
+👉 RAG = Book open chesi chusthundi
+👉 AI Agent = Assistant
+👉 Agentic AI = Manager
+
+🎯 Final Easy Example
+
+👉 Nuvvu boss ani assume cheyy
+
+Normal AI:
+
+"Report raay" → text ivvadi
+
+RAG AI:
+
+company data chusi → correct report ivvadi
+
+AI Agent:
+
+report create + email send chesthundi
+
+Agentic AI:
+report create
+mistakes check
+presentation create
+client ki send
+🚀 Quick Summary
+Generative AI → create chesthundi
+LLM → brain
+RAG → external data use chesthundi
+AI Agent → tasks complete chesthundi
+Agentic AI → full automation system
+

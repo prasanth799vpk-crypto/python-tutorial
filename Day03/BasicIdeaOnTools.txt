@@ -1,0 +1,27 @@
+Tools used to write code with Python : 
+
+  1. Anaconda Software 
+
+            Jupyter NoteBook --> .ipynb
+            Jupyter Labs 
+            Spider
+
+  2. Google Colabs 
+
+            Jupyter Notebook --> .ipynb
+
+  3. VS Code --> .py
+
+  4. PyCharm --> .py
+
+  5. Notepad++ --> .py 
+
+  6. Azure Python Workbench --> .ipynb
+
+  7. Model Deployment --> DataBricks --> .py
+
+  import os
+
+  os.getcwd();  # get current working directory
+
+  

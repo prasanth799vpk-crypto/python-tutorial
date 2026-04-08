@@ -1,0 +1,140 @@
+🔹 Variables & Types
+Create variables for name, age, and city.
+Print the type of each variable.
+Assign a float value and convert it to int.
+Assign an int and convert it to string.
+Check type of "123" and 123.
+🔹 Strings
+Create a string and print its length.
+Access first and last character.
+Reverse a string.
+Convert string to uppercase.
+Replace a word in string.
+Check if a substring exists.
+Count occurrences of a character.
+Remove spaces from start and end.
+Split a sentence into words.
+Join words into a sentence.
+🔹 Numbers
+Add two numbers.
+Find square of a number.
+Find cube of a number.
+Check if number is even or odd.
+Find largest of two numbers.
+🔹 Boolean
+Compare two numbers.
+Check if a number is positive.
+Check if string is empty.
+Use and, or operators.
+Negate a boolean value.
+📋 SECTION 2: LISTS (26–50)
+Create a list of 5 numbers.
+Add an element to list.
+Remove an element.
+Find length of list.
+Access last element.
+Reverse a list.
+Sort a list.
+Find max and min.
+Count occurrences of element.
+Check if element exists.
+Merge two lists.
+Copy a list.
+Clear a list.
+Insert element at index.
+Remove duplicates from list.
+Iterate and print all elements.
+Find sum of elements.
+Multiply all elements.
+Find second largest number.
+Convert list to string.
+Remove negative numbers.
+Find common elements between two lists.
+Flatten nested list.
+Slice first 3 elements.
+Slice last 3 elements.
+📦 SECTION 3: TUPLES (51–65)
+Create a tuple.
+Access elements.
+Count occurrences.
+Find index of element.
+Convert tuple to list.
+Convert list to tuple.
+Check if element exists.
+Iterate through tuple.
+Concatenate two tuples.
+Slice a tuple.
+Find length of tuple.
+Unpack tuple into variables.
+Nested tuple access.
+Find max value.
+Find min value.
+🧩 SECTION 4: SETS (66–80)
+Create a set.
+Add element.
+Remove element.
+Check membership.
+Find union of two sets.
+Find intersection.
+Find difference.
+Remove duplicates from list using set.
+Convert set to list.
+Clear a set.
+Iterate through set.
+Find length.
+Check subset.
+Check superset.
+Pop random element.
+📖 SECTION 5: DICTIONARIES (81–100)
+Create a dictionary.
+Access value using key.
+Add new key-value pair.
+Update value.
+Remove a key.
+Get all keys.
+Get all values.
+Get all items.
+Check if key exists.
+Iterate dictionary.
+Merge two dictionaries.
+Count frequency of elements in list.
+Nested dictionary access.
+Convert dict keys to list.
+Find max value in dict.
+Sort dictionary by keys.
+Sort dictionary by values.
+Create dictionary from two lists.
+Default value if key not found.
+Clear dictionary.
+🚀 SECTION 6: ADVANCED (101–120)
+Find duplicate elements in list.
+Find unique elements.
+Group words by length.
+Count vowels in string.
+Find first non-repeating character.
+Check palindrome string.
+Check anagram.
+Flatten nested dictionary.
+Merge multiple lists.
+Find top 3 largest numbers.
+Rotate list.
+Find missing number in list.
+Convert list of tuples to dict.
+Create dict from string characters count.
+Remove empty values from dict.
+Sort list of dictionaries.
+Find common keys in dicts.
+Convert string to list of ASCII values.
+Convert list to set and back.
+Count words in sentence.
+🔥 BONUS: REAL-TIME QUESTIONS (121–130)
+Shopping cart system using list
+Student marks system using dict
+Remove duplicate users
+Login system using dict
+Word frequency counter
+Phone contacts system
+Inventory management
+Email validator (basic)
+Password strength checker
+Simple recommendation system
