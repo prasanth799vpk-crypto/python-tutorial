@@ -23,6 +23,7 @@ if 100 < 10 :
     print("haii")
 print("hey")  
 
+
 # if statement
 
 num = 10
